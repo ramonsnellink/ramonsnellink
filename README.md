@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramon Snellink</h1>
 <h3 align="center">A front-end developer from The Netherlands</h3>
 
-- 🔭 I’m currently **finishing my WINC Academy courses*
+- 🔭 I’m currently **finishing my WINC Academy courses**
 
 - 🌱 I’m currently learning **React**
 
