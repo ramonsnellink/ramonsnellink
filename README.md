@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ramon Snellink</h1>
 <h3 align="center">A front-end developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on **finishing my WINC Academy courses**
+- 🔭 I’m currently **finishing my WINC Academy courses*
 
 - 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for a **front-end development job!**
 
-- 📫 How to reach me **r.snellink@gmail.com**
+- 📫 Reach me on: **[r.snellink@gmail.com](mailto:r.snellink@gmail.com)**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
