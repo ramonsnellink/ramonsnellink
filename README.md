@@ -2,11 +2,7 @@
 <h3 align="center">A front-end developer from The Netherlands</h3>
 <br />
 
-- 🔭 I’m currently **finishing my WINC Academy courses**
-
-- 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for a **front-end development job!**
+- 🔭 I’m currently **learning advanced Wordpress Development**
 
 - 📫 Reach me on: **[r.snellink@gmail.com](mailto:r.snellink@gmail.com)**  
 
